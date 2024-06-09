@@ -6,6 +6,10 @@ Kaynaklar ve sunum sözlüğü içeriğidir.
 
 **TDE** : Transperent data encryption. (Verinin şifrelenmiş halde tutulurken kullanılabilemsini sağlar.)
 
+**GDE** : IBM Security Guardium Data Encryption
+
+**GKLM** : IBM Security Guardium Key Lifecycle Manager
+
 **Şeffaf veri şifreleme** : TDE
 
 **Encyrption** : Bir key veya parametre kullanarak verinin anlaşılamaz hale sokulması. (Anlaşılamaz haldeki veri key veya parametre kullanılarak geri döndürülebilir olmalıdır.)
@@ -24,9 +28,9 @@ Kaynaklar ve sunum sözlüğü içeriğidir.
 
 **Wallet**: KEK lerin tutulduğu yapı (parola veya farklı koruma yöntemleri ile korunur.)
 
-IBM Security Key Lifecyle Manager : https://www.ibm.com/products/ibm-security-key-lifecycle-manager
+***IBM Security Key Lifecycle Manager***: https://www.ibm.com/products/ibm-security-key-lifecycle-manager
 
-IBM Security Guardium Data Encryption : https://www.ibm.com/products/guardium-data-encryption
+***IBM Security Guardium Data Encryption***: https://www.ibm.com/products/guardium-data-encryption
 
 Sunum içerikleri: 
 
@@ -35,8 +39,11 @@ Sunum içerikleri:
 
 <img width="1118" alt="image" src="https://github.com/faik-sevim/exclusive-networks/assets/35146324/524f4c87-a1fb-4868-b1cf-9c4c73c052e6">
 
-
 <img width="1118" alt="image" src="https://github.com/faik-sevim/exclusive-networks/assets/35146324/618c6f4d-b0f0-4ec1-95ea-5ce555505a40">
+
+<img width="1126" alt="image" src="https://github.com/faik-sevim/exclusive-networks/assets/35146324/48b7715a-07f2-4fd3-ad1f-a774002a5a01">
+
+<img width="1131" alt="image" src="https://github.com/faik-sevim/exclusive-networks/assets/35146324/b1207a20-140a-4013-bade-b2ff8370edd9">
 
 
 KULLANILAN KAYNAKLAR
