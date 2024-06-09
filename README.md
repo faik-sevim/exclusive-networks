@@ -8,9 +8,9 @@ Kaynaklar ve sunum sözlüğü içeriğidir.
 
 **Şeffaf veri şifreleme** : TDE
 
-**encyrption** : Bir key veya parametre kullanarak verinin anlaşılamaz hale sokulması. (Anlaşılamaz haldeki veri key veya parametre kullanılarak geri döndürülebilir olmalıdır.)
+**Encyrption** : Bir key veya parametre kullanarak verinin anlaşılamaz hale sokulması. (Anlaşılamaz haldeki veri key veya parametre kullanılarak geri döndürülebilir olmalıdır.)
 
-**decryption** : Encryp edilmiş verinin çözülerek anlamlı hale geri döndürülmesi.
+**Decryption** : Encryp edilmiş verinin çözülerek anlamlı hale geri döndürülmesi.
 
 **Data Encyption at rest** : Veri tabanındaki durağan verinin şifrelenmesi (Veri tabanından gönderilen ve harket halinde olmayan verinin şifrelenmesi.)
 
